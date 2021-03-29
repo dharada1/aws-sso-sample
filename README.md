@@ -11,3 +11,7 @@ https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/access_policies_job-funct
 一括請求
 
 https://docs.aws.amazon.com/ja_jp/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-procedure.html
+
+ユーザーの追加
+
+https://docs.aws.amazon.com/ja_jp/singlesignon/latest/userguide/addusers.html
